@@ -1,0 +1,1 @@
+/usr/bin/c++    -no-pie CMakeFiles/testcc.dir/testcc.C.o  -o testcc  -Wl,-rpath,/home/wen/bin-mleak-fix/dyninst/newexams/examples/codeCoverage libInst.so libexternal.so 

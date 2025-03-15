@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wen/bin-mleak-fix/dyninst/newexams/examples/tracetool/userapp.cpp
+chrono
+-
+cstdlib
+-
+iostream
+-
+thread
+-
+

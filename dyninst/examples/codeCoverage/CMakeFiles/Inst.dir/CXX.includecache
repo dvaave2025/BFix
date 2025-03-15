@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wen/bin-mleak-fix/dyninst/newexams/examples/codeCoverage/Inst.C
+Inst.h
+/home/wen/bin-mleak-fix/dyninst/newexams/examples/codeCoverage/Inst.h
+algorithm
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+vector
+-
+
+/home/wen/bin-mleak-fix/dyninst/newexams/examples/codeCoverage/Inst.h
+
