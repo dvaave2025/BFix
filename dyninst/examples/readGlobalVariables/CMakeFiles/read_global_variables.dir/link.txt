@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/read_global_variables.dir/reader.cpp.o  -o read_global_variables  -Wl,-rpath,/home/examples/readGlobalVariables -lDyninst::symtabAPI libglobals.so 

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/callback.dir/callback.cpp.o  -o callback  -lDyninst::pcontrol 
