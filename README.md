@@ -4,6 +4,7 @@ The static analysis is based on Dyninst, a binary analysis tool. BFix uses Dynin
 
 
 Install:
+	
 	Install Docker on your server. 
 	Download bfix.tar.part_*
 	Use the command: cat bfix.tar.part_* > bfix.tar
