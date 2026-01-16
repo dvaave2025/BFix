@@ -17,11 +17,18 @@ Background:
 	Build dyninst examples:
 	cmake . -DDyninst_DIR=path/to/Dyninst/install/lib/cmake/Dyninst
 
+Download:
+
+	bfix.tar.part_aa:
+		https://drive.google.com/file/d/1vBa-mNdSrKTnNFsBYmkerUlFZj6wRjsi/view?usp=sharing
+	bfix.tar.part_ab: 
+		https://drive.google.com/file/d/1O46P_z0vnMRImQxe42WFuOXnm0BKz1Pr/view?usp=sharing
+
 
 Install:
 	
 	Install Docker on your server. 
-	Download bfix.tar.part_*
+	Download bfix.tar.part_* to the same folder.
 	Use the command: cat bfix.tar.part_* > bfix.tar
 	Use the command to import the image: docker import bfix.tar ubuntu:2
 	Use the command to run the container: docker run -it ubuntu:2 /bin/bash
@@ -36,5 +43,6 @@ Testing:
 	To use this artifact, please run the script “run.sh” under the path “/home”.
 
 	You may find the paper under the path “/home”.
+	More details could be found in README.txt under the path "/".
 
 
