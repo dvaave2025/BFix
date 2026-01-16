@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/counter.dir/counter.cpp.o  -o counter  -lDyninst::dyninstAPI 

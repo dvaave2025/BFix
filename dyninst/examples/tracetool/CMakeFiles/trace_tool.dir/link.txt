@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/trace_tool.dir/tracetool.cpp.o  -o trace_tool  -lDyninst::dyninstAPI 
